@@ -1,0 +1,19 @@
+{
+  "city": "北京",
+  "period": "2026年6月",
+  "headline": {
+    "totalStock": 1280,
+    "totalStockUnit": "万㎡",
+    "vacancyRate": 16.2,
+    "vacancyRateUnit": "%",
+    "avgRent": 320,
+    "avgRentUnit": "元/㎡/月",
+    "yoyRentChange": -3.1
+  },
+  "highlights": [
+    "丽泽、通州运河商务区持续放量，2026年新增供应约35万㎡",
+    "金融街、CBD核心区空置率维持在10%以内",
+    "科技企业中关村、望京持续扩租，对冲部分传统行业收缩",
+    "平均租金320元/㎡/月，环比稳定，同比降幅收窄至3.1%"
+  ]
+}

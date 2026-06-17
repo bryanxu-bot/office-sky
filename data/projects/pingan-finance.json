@@ -1,0 +1,65 @@
+{
+  "slug": "pingan-finance",
+  "name": "平安金融中心",
+  "district": "福田",
+  "submarket": "福田中心区",
+  "address": "深圳市福田区益田路5033号",
+  "grade": "超甲级",
+  "totalArea": "46.8万㎡",
+  "officeArea": "30.0万㎡",
+  "retailArea": "8.0万㎡",
+  "floors": 118,
+  "yearBuilt": 2016,
+  "landlord": "平安不动产",
+  "propertyManager": "仲量联行（JLL）",
+  "occupancyRate": 92.7,
+  "avgRent": 280,
+  "rentRange": "220-320元/㎡/月",
+  "managementFee": 45,
+  "parkingSpaces": 1600,
+  "nearbyMetro": ["1号线购物公园站", "2/3/11号线福田站"],
+  "greenCert": "LEED 铂金级",
+  "floorPlate": "3200-3500㎡",
+  "ceilingHeight": "4.5m",
+  "elevators": 48,
+  "diagnosis": {
+    "summary": "平安金融中心（PAFC）以599.1米高度稳居深圳第一、中国第二高楼，是福田CBD绝对的核心地标。由KPF设计、JLL物业管理，硬件配置对标国际一流——48部日立高速电梯（最高10m/s）、LEED铂金级认证、冰蓄冷VAV系统。平安集团总部锁定大量面积，出租率常年保持92%以上，是深圳极少数空置率低于10%的超甲级项目。高区海景单位租金可达320元/㎡·月，议价空间极小，是深圳写字楼市场真正的'硬通货'。",
+    "strengths": [
+      { "point": "599.1米华南第一高度，品牌效应无可替代，入驻即获顶级商务背书" },
+      { "point": "平安集团总部+旗下子公司占用大量面积，租户结构极度稳定" },
+      { "point": "出租率92.7%为深圳超甲级最高水平，空置压力几乎为零" },
+      { "point": "LEED铂金级+GRESB五星，能耗较传统建筑降低46%，ESG表现行业标杆" }
+    ],
+    "weaknesses": [
+      { "point": "租金280-320元/㎡·月远超深圳甲级均价（约180元），筛选租户面窄" },
+      { "point": "高区景观房源需提前3个月预订，供应弹性差" },
+      { "point": "实用率仅55%，得房率显著低于同类竞品" },
+      { "point": "物业费45元/㎡·月为深圳最高一档，企业持有成本高" }
+    ],
+    "opportunities": [
+      { "point": "福田'法律服务专业楼宇'授牌吸引高端专业服务业租户" },
+      { "point": "云际观光层（116F）持续提升项目公众知名度和品牌溢价" },
+      { "point": "金融开放政策持续深化，外资机构落户首选地标" },
+      { "point": "地铁多线交汇+地下福田站直通香港，跨境商务优势独特" }
+    ],
+    "threats": [
+      { "point": "超总基地、前海等新区高端项目分流金融租户" },
+      { "point": "599米高度在极端天气下的运维成本和安全风险" },
+      { "point": "超高租金在经济下行期可能导致租户外迁至性价比更高的项目" }
+    ],
+    "scorecard": {
+      "location": 9.5,
+      "quality": 9.5,
+      "leasing": 9.0,
+      "investment": 8.5,
+      "outlook": 8.5
+    }
+  },
+  "peerComparison": [
+    { "project": "平安金融中心", "rent": 280, "vacancy": 7.3 },
+    { "project": "嘉里建设广场", "rent": 260, "vacancy": 8.5 },
+    { "project": "卓越世纪中心", "rent": 160, "vacancy": 22.0 },
+    { "project": "皇庭中心", "rent": 180, "vacancy": 18.0 },
+    { "project": "中民时代广场", "rent": 185, "vacancy": 28.5 }
+  ]
+}

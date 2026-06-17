@@ -1,0 +1,65 @@
+{
+  "slug": "zhaoshang-plaza",
+  "name": "招商局广场",
+  "district": "南山",
+  "submarket": "南山后海",
+  "address": "深圳市南山区蛇口望海路1008号",
+  "grade": "甲级",
+  "totalArea": "10.7万㎡",
+  "officeArea": "6.1万㎡",
+  "retailArea": "0.3万㎡",
+  "floors": 37,
+  "yearBuilt": 2012,
+  "landlord": "招商蛇口",
+  "propertyManager": "招商物业",
+  "occupancyRate": 81.8,
+  "avgRent": 195,
+  "rentRange": "150-230元/㎡·月",
+  "managementFee": 31,
+  "parkingSpaces": 751,
+  "nearbyMetro": ["2号线海上世界站"],
+  "greenCert": "无",
+  "floorPlate": "1600-1800㎡",
+  "ceilingHeight": "4.5m",
+  "elevators": 18,
+  "diagnosis": {
+    "summary": "招商局广场是蛇口片区的地标甲级写字楼，由美国SOM建筑设计事务所操刀，211米全玻璃幕墙塔楼。项目最大差异化优势是深圳罕有的山海景观办公——坐拥深圳湾海景与大南山山景双重资源，距海上世界仅100米。招商局集团旗下企业锁定相当比例面积，出租率维持在82%左右。2012年竣工的楼龄使其硬件标准（无LEED认证）落后于新建超甲级，但4.5m层高、通力电梯、18m挑高大堂等配置至今仍属中上水平。",
+    "strengths": [
+      { "point": "深圳稀缺山海景观办公（深圳湾海景+大南山山景），不可复制" },
+      { "point": "SOM设计+全玻璃幕墙，建筑品质获国际认可" },
+      { "point": "招商局集团品牌背书，央企租户生态稳定" },
+      { "point": "距海上世界地铁站仅100米+海上世界商圈配套成熟" }
+    ],
+    "weaknesses": [
+      { "point": "2012年竣工，部分设备老化，无LEED等绿色建筑认证" },
+      { "point": "总建面仅10.7万㎡，办公面积6.1万㎡，体量偏小" },
+      { "point": "蛇口片区地理偏隅，对福田/罗湖企业吸引力有限" },
+      { "point": "标准层1600-1800㎡偏小，大型企业整层需求难以满足" }
+    ],
+    "opportunities": [
+      { "point": "蛇口国际化社区氛围吸引外企和跨国机构入驻" },
+      { "point": "太子湾邮轮母港+K11 ECOAST等重大文旅商业配套提升片区价值" },
+      { "point": "望海路快速化改造缩短蛇口与前海/深圳湾通勤时间" },
+      { "point": "字节跳动等科技巨头已入驻蛇口，带动科技企业集聚" }
+    ],
+    "threats": [
+      { "point": "深圳湾超总、后海总部基地新建项目对蛇口形成截流" },
+      { "point": "楼龄增长带来的设备更新和节能改造成本上升" },
+      { "point": "海上世界片区商业竞争加剧，部分配套可能老化" }
+    ],
+    "scorecard": {
+      "location": 7.5,
+      "quality": 7.0,
+      "leasing": 7.5,
+      "investment": 6.5,
+      "outlook": 7.0
+    }
+  },
+  "peerComparison": [
+    { "project": "招商局广场", "rent": 195, "vacancy": 18.2 },
+    { "project": "中国华润大厦", "rent": 260, "vacancy": 15.8 },
+    { "project": "深圳湾1号", "rent": 280, "vacancy": 12.0 },
+    { "project": "太子湾商务中心", "rent": 160, "vacancy": 25.0 },
+    { "project": "平安金融中心", "rent": 280, "vacancy": 7.3 }
+  ]
+}

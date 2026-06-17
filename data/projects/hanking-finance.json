@@ -1,0 +1,65 @@
+{
+  "slug": "hanking-finance",
+  "name": "汉京金融中心",
+  "district": "南山",
+  "submarket": "南山科技园",
+  "address": "深圳市南山区深南大道9968号",
+  "grade": "超甲级",
+  "totalArea": "16.6万㎡",
+  "officeArea": "10.0万㎡",
+  "retailArea": "1.5万㎡",
+  "floors": 61,
+  "yearBuilt": 2018,
+  "landlord": "汉京集团",
+  "propertyManager": "汉京物业（仲量联行顾问）",
+  "occupancyRate": 78.0,
+  "avgRent": 160,
+  "rentRange": "130-220元/㎡·月",
+  "managementFee": 48,
+  "parkingSpaces": 852,
+  "nearbyMetro": ["1号线深大站"],
+  "greenCert": "LEED 铂金级",
+  "floorPlate": "1500-2100㎡",
+  "ceilingHeight": "4.5m",
+  "elevators": 22,
+  "diagnosis": {
+    "summary": "汉京金融中心（350米/61层）由普利兹克奖得主汤姆·梅恩设计，是深南大道科技园段最醒目的建筑地标之一。全钢结构+LEED铂金级认证+全空气VAV系统代表了极高的绿色建筑标准。项目位于科技园核心区，紧邻腾讯大厦/百度国际大厦，科技企业租户生态丰富。但48元/㎡·月的物业费为深圳最高档，且距深大站步行约700米不够便利。政府创新型产业用房租金仅59元/㎡·月（需申请），形成价格双轨制。",
+    "strengths": [
+      { "point": "普利兹克奖得主汤姆·梅恩设计，全钢结构地标，建筑艺术价值极高" },
+      { "point": "LEED铂金级认证，深圳极少数获此最高绿色建筑认证的写字楼" },
+      { "point": "紧邻腾讯/百度/中兴，科技企业总部集聚区的网络效应" },
+      { "point": "政府创新型产业用房59元/㎡·月，对科创企业极具吸引力" }
+    ],
+    "weaknesses": [
+      { "point": "物业费48元/㎡·月为深圳最高档之一，企业持有成本高" },
+      { "point": "距深大站步行约700米，'地铁上盖'体验不如竞品" },
+      { "point": "全钢结构虽然壮观但隔音/隔热性能存在争议" },
+      { "point": "汉京集团品牌知名度不及华润/平安/招商，品牌溢价有限" }
+    ],
+    "opportunities": [
+      { "point": "科技园片区存量办公升级需求旺盛，超甲级供应稀缺" },
+      { "point": "深南大道+科技园双IP加持，科技企业总部选址首选之一" },
+      { "point": "深圳'20+8'产业集群政策持续利好科技园片区" },
+      { "point": "地铁15号线规划可能改善片区轨道交通覆盖" }
+    ],
+    "threats": [
+      { "point": "科技园片区多个城市更新项目将新增办公供应" },
+      { "point": "科技行业裁员潮可能影响租户稳定性和续租意愿" },
+      { "point": "创新型产业用房价格双轨制可能影响市场租金体系" }
+    ],
+    "scorecard": {
+      "location": 7.5,
+      "quality": 9.0,
+      "leasing": 6.5,
+      "investment": 7.0,
+      "outlook": 7.5
+    }
+  },
+  "peerComparison": [
+    { "project": "汉京金融中心", "rent": 160, "vacancy": 22.0 },
+    { "project": "中国华润大厦", "rent": 260, "vacancy": 15.8 },
+    { "project": "万科云城", "rent": 145, "vacancy": 30.5 },
+    { "project": "深圳湾科技生态园", "rent": 130, "vacancy": 28.0 },
+    { "project": "平安金融中心", "rent": 280, "vacancy": 7.3 }
+  ]
+}

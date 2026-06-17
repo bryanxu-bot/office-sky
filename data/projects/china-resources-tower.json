@@ -1,0 +1,65 @@
+{
+  "slug": "china-resources-tower",
+  "name": "中国华润大厦",
+  "district": "南山",
+  "submarket": "南山后海",
+  "address": "深圳市南山区科苑南路2666号",
+  "grade": "超甲级",
+  "totalArea": "21.5万㎡",
+  "officeArea": "15.0万㎡",
+  "retailArea": "2.0万㎡",
+  "floors": 66,
+  "yearBuilt": 2018,
+  "landlord": "华润置地",
+  "propertyManager": "华润物业",
+  "occupancyRate": 84.2,
+  "avgRent": 260,
+  "rentRange": "200-320元/㎡/月",
+  "managementFee": 38,
+  "parkingSpaces": 1200,
+  "nearbyMetro": ["2/11号线后海站"],
+  "greenCert": "LEED 金级",
+  "floorPlate": "3200-4300㎡",
+  "ceilingHeight": "4.5m",
+  "elevators": 28,
+  "diagnosis": {
+    "summary": "中国华润大厦（'春笋'）是深圳湾第一地标，392.5米、KPF设计的独特曲面造型使其与深圳湾体育中心'春茧'形成'破茧成笋'的城市意象。作为华润集团总部所在地，项目坐拥深圳湾一线海景，入驻企业享后海总部基地政策红利。华润深圳湾综合体（含万象城、悦府、安达仕酒店）配套完善，是南山区最具品牌溢价的超甲级写字楼。当前出租率约84%，高区海景单位租金坚挺。",
+    "strengths": [
+      { "point": "392.5米KPF曲面塔楼，'春笋'造型识别度极高，深圳湾城市名片级地标" },
+      { "point": "华润集团总部入驻，品牌背书极强，租户信心充足" },
+      { "point": "深圳湾一线海景+后海总部基地政策，双重区位优势" },
+      { "point": "华润深圳湾综合体（万象城+悦府+安达仕）配套，商务生态闭环" }
+    ],
+    "weaknesses": [
+      { "point": "租金260元/㎡·月远高于南山平均水平，中小企业难以承受" },
+      { "point": "后海片区商务配套仍在完善中，餐饮/商业密度不及福田CBD" },
+      { "point": "曲面楼型导致部分楼层实用率偏低，内部空间不规整" },
+      { "point": "距地铁站步行约8分钟，地铁上盖优势不如福田竞品" }
+    ],
+    "opportunities": [
+      { "point": "深圳湾超级总部基地建设推进，片区商务价值持续提升" },
+      { "point": "后海总部基地政策加码，科技企业总部需求旺盛" },
+      { "point": "深圳湾文化广场等重大文化设施落成提升片区软实力" },
+      { "point": "跨境理财通等金融开放政策利好港资机构入驻" }
+    ],
+    "threats": [
+      { "point": "深圳湾超总多个高端项目入市，分散科技/金融企业总部落户选择" },
+      { "point": "前海自贸区政策优势对后海形成直接竞争" },
+      { "point": "高租金在经济调整期面临租户退租或缩租压力" }
+    ],
+    "scorecard": {
+      "location": 9.0,
+      "quality": 9.5,
+      "leasing": 7.5,
+      "investment": 8.0,
+      "outlook": 8.5
+    }
+  },
+  "peerComparison": [
+    { "project": "中国华润大厦", "rent": 260, "vacancy": 15.8 },
+    { "project": "深圳湾1号", "rent": 280, "vacancy": 12.0 },
+    { "project": "平安金融中心", "rent": 280, "vacancy": 7.3 },
+    { "project": "招商局广场", "rent": 195, "vacancy": 18.2 },
+    { "project": "卓越前海壹号", "rent": 155, "vacancy": 35.2 }
+  ]
+}

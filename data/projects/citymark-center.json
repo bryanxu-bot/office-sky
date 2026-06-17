@@ -1,0 +1,65 @@
+{
+  "slug": "citymark-center",
+  "name": "城脉中心",
+  "district": "罗湖",
+  "submarket": "罗湖",
+  "address": "深圳市罗湖区笋岗街道红岭北路与桃园路交汇处",
+  "grade": "超甲级",
+  "totalArea": "18.0万㎡",
+  "officeArea": "10.5万㎡",
+  "retailArea": "0.6万㎡",
+  "floors": 70,
+  "yearBuilt": 2022,
+  "landlord": "城脉控股",
+  "propertyManager": "仲量联行（JLL）",
+  "occupancyRate": 68.0,
+  "avgRent": 175,
+  "rentRange": "140-220元/㎡/月",
+  "managementFee": 32,
+  "parkingSpaces": 520,
+  "nearbyMetro": ["7号线红岭北站", "9号线园岭站"],
+  "greenCert": "LEED 金级",
+  "floorPlate": "2400-3400㎡",
+  "ceilingHeight": "4.5m",
+  "elevators": 42,
+  "diagnosis": {
+    "summary": "城脉中心（388米）是深圳第四高楼、2022年全球第二高建成建筑，位于笋岗红岭新兴金融产业带核心位置。KPF设计+JLL物业管理，硬件标准对标国际超甲级。获深圳市政府授牌'深港万亿财富管理集聚园区'，财富管理企业可享最高70%租金补贴及5000万落户扶持。当前出租率约68%处于爬坡期，但政策加持下中长期前景积极。",
+    "strengths": [
+      { "point": "388米深圳第四高楼，KPF设计，建筑标志性极强，品牌效应显著" },
+      { "point": "获'深港万亿财富管理集聚园区'授牌，入驻企业享最高70%租金补贴" },
+      { "point": "仲量联行物业管理，国际标准运营水平" },
+      { "point": "层高4.5m、楼面2400-3400㎡，硬件达国际超甲级标准" }
+    ],
+    "weaknesses": [
+      { "point": "笋岗片区商务配套仍在完善中，周边环境不如福田CBD成熟" },
+      { "point": "当前出租率约68%，尚处租赁爬坡期，短期现金流压力较大" },
+      { "point": "距地铁站步行约8-10分钟，地铁上盖优势不如竞品" },
+      { "point": "片区多为旧改项目，整体城市界面更新尚需时间" }
+    ],
+    "opportunities": [
+      { "point": "红岭新兴金融产业带核心载体，金融企业集聚效应逐步形成" },
+      { "point": "最高5000万一次性落户扶持+70%租金补贴，招商政策力度空前" },
+      { "point": "笋岗片区'新罗湖会客厅'定位，城市更新带来区域价值提升" },
+      { "point": "高端会所配套（米其林餐厅/空中泳池/行政酒廊）形成差异化竞争力" }
+    ],
+    "threats": [
+      { "point": "福田、前海金融政策同样优厚，财富管理企业落户选择多" },
+      { "point": "宏观经济不确定性影响金融机构扩张需求" },
+      { "point": "片区多个写字楼项目同期入市，局部供应压力增大" }
+    ],
+    "scorecard": {
+      "location": 7.0,
+      "quality": 9.0,
+      "leasing": 5.5,
+      "investment": 7.5,
+      "outlook": 8.0
+    }
+  },
+  "peerComparison": [
+    { "project": "城脉中心", "rent": 175, "vacancy": 32.0 },
+    { "project": "京基100", "rent": 170, "vacancy": 19.5 },
+    { "project": "城建云启大厦", "rent": 130, "vacancy": 38.5 },
+    { "project": "物资置地大厦", "rent": 120, "vacancy": 22.0 },
+    { "project": "平安金融中心", "rent": 280, "vacancy": 12.5 }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "chengjian-yunqi",
+  "name": "城建云启大厦",
+  "district": "罗湖",
+  "submarket": "罗湖",
+  "address": "深圳市罗湖区桂园街道红岭南路与金华街交汇处",
+  "grade": "超甲级",
+  "totalArea": "19.0万㎡",
+  "officeArea": "13.5万㎡",
+  "retailArea": "1.2万㎡",
+  "floors": 72,
+  "yearBuilt": 2025,
+  "landlord": "深投控/城建集团",
+  "propertyManager": "城建物业",
+  "occupancyRate": 38.5,
+  "avgRent": 130,
+  "rentRange": "80-160元/㎡/月",
+  "managementFee": 25,
+  "parkingSpaces": 600,
+  "nearbyMetro": ["9号线红岭南站", "11号线红岭南站", "1号线大剧院站"],
+  "greenCert": "LEED 金级（预认证）",
+  "floorPlate": "2400-2600㎡",
+  "ceilingHeight": "4.5m",
+  "elevators": 33,
+  "diagnosis": {
+    "summary": "城建云启大厦于2025年竣工，是罗湖蔡屋围片区333米超高层新地标。项目硬件标准突出（层高4.5m、LEED金级预认证），地铁9/11号线上盖优势显著。但2025年新入市叠加当前市场调整期，空置率偏高（约38.5%），租金承压。深投控国资背景为运营稳定性提供保障，长期来看随着片区城市更新推进，项目价值有望逐步释放。",
+    "strengths": [
+      { "point": "罗湖蔡屋围核心地段，9/11号线双地铁上盖，5条地铁交汇，通达性极佳" },
+      { "point": "333米超高层地标，层高4.5m远超甲级写字楼标准，硬件品质突出" },
+      { "point": "深投控国资背景，开发商实力雄厚，运营稳定性有保障" },
+      { "point": "LEED金级预认证+绿建二星，符合ESG导向的租户需求" }
+    ],
+    "weaknesses": [
+      { "point": "2025年新入市，当前空置率高达38.5%，租户基础薄弱" },
+      { "point": "罗湖片区整体租金下行，项目定价面临福田、南山同级别项目的竞争" },
+      { "point": "周边城市更新尚未完成，商务氛围不如福田中心区和南山后海成熟" },
+      { "point": "300㎡起租门槛限制了中小企业需求" }
+    ],
+    "opportunities": [
+      { "point": "罗湖'红岭新兴金融产业带'规划核心位置，政策红利可期" },
+      { "point": "前三年最高7折租金优惠吸引优质租户，有望快速提升出租率" },
+      { "point": "11号线开通后进一步提升与福田、南山的连接效率" },
+      { "point": "蔡屋围片区城市更新持续推进，区域商务价值长期向好" }
+    ],
+    "threats": [
+      { "point": "前海、后海持续供应高品质写字楼，分流罗湖租户需求" },
+      { "point": "深圳甲级写字楼整体空置率超25%，市场竞争激烈" },
+      { "point": "科技企业偏好南山，金融机构倾向福田，罗湖定位面临挑战" }
+    ],
+    "scorecard": {
+      "location": 7.5,
+      "quality": 8.5,
+      "leasing": 4.0,
+      "investment": 6.5,
+      "outlook": 7.0
+    }
+  },
+  "peerComparison": [
+    { "project": "城建云启大厦", "rent": 130, "vacancy": 38.5 },
+    { "project": "京基100", "rent": 170, "vacancy": 19.5 },
+    { "project": "城脉中心", "rent": 175, "vacancy": 32.0 },
+    { "project": "物资置地大厦", "rent": 120, "vacancy": 22.0 },
+    { "project": "地王大厦", "rent": 140, "vacancy": 25.0 }
+  ]
+}

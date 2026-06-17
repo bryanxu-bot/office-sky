@@ -1,0 +1,19 @@
+{
+  "city": "上海",
+  "period": "2026年6月",
+  "headline": {
+    "totalStock": 1650,
+    "totalStockUnit": "万㎡",
+    "vacancyRate": 19.5,
+    "vacancyRateUnit": "%",
+    "avgRent": 265,
+    "avgRentUnit": "元/㎡/月",
+    "yoyRentChange": -4.8
+  },
+  "highlights": [
+    "陆家嘴、南京西路传统核心区空置率约12%，表现稳健",
+    "前滩、徐汇滨江、北外滩新兴板块竞争激烈，空置率超25%",
+    "外资企业租赁需求温和恢复，但仍低于疫情前水平",
+    "全市平均租金265元/㎡/月，同比下降4.8%，核心与非核心区租金分化加剧"
+  ]
+}

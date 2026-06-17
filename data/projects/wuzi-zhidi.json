@@ -1,0 +1,65 @@
+{
+  "slug": "wuzi-zhidi",
+  "name": "物资置地大厦",
+  "district": "罗湖",
+  "submarket": "罗湖",
+  "address": "深圳市罗湖区笋岗街道梨园路6号",
+  "grade": "甲级",
+  "totalArea": "3.3万㎡",
+  "officeArea": "2.8万㎡",
+  "retailArea": "0.5万㎡",
+  "floors": 23,
+  "yearBuilt": 2014,
+  "landlord": "物资控股",
+  "propertyManager": "物资物业",
+  "occupancyRate": 78.0,
+  "avgRent": 120,
+  "rentRange": "80-160元/㎡/月",
+  "managementFee": 22.6,
+  "parkingSpaces": 200,
+  "nearbyMetro": ["9号线园岭站", "7号线笋岗站"],
+  "greenCert": "无",
+  "floorPlate": "1200-1500㎡",
+  "ceilingHeight": "3.9m",
+  "elevators": 6,
+  "diagnosis": {
+    "summary": "物资置地大厦是笋岗片区较早入市的甲级写字楼（2014年竣工），为深圳市政府授牌的三大互联网金融产业园之一。项目体量较小（约3.3万㎡），硬件标准（层高3.9m）与新建超甲级项目存在差距，但成熟运营超过10年，出租率稳定在78%左右。12米挑高大堂、24小时VRV独立空调、距地铁300米等优势使其在中小面积租赁市场保持竞争力。",
+    "strengths": [
+      { "point": "深圳市政府授牌互联网金融产业园，政策身份独特" },
+      { "point": "距9号线园岭站仅300米，步行3分钟通达" },
+      { "point": "24小时VRV独立空调，降低企业加班运营成本" },
+      { "point": "运营超10年，租户结构稳定，物业管理成熟" }
+    ],
+    "weaknesses": [
+      { "point": "2014年竣工，层高3.9m、电梯仅6部，硬件标准落后于新建超甲级" },
+      { "point": "总建面仅3.3万㎡，规模较小，缺乏规模效应和配套丰富度" },
+      { "point": "无绿色建筑认证，ESG导向租户可能排除" },
+      { "point": "停车位仅200个，车位比偏低" }
+    ],
+    "opportunities": [
+      { "point": "笋岗'新罗湖会客厅'城市更新提升区域价值" },
+      { "point": "互联网金融产业园政策可能进一步升级" },
+      { "point": "中小面积灵活租赁方案契合当前市场'小面积需求上升'趋势" },
+      { "point": "周边城脉中心等地标入市带动片区商务知名度提升" }
+    ],
+    "threats": [
+      { "point": "周边城脉中心、城建云启等新建超高层对老旧甲级形成降维打击" },
+      { "point": "互联网金融监管政策变化可能影响部分租户稳定性" },
+      { "point": "楼龄增长带来的设备老化和维护成本上升" }
+    ],
+    "scorecard": {
+      "location": 7.5,
+      "quality": 5.5,
+      "leasing": 7.0,
+      "investment": 6.0,
+      "outlook": 6.5
+    }
+  },
+  "peerComparison": [
+    { "project": "物资置地大厦", "rent": 120, "vacancy": 22.0 },
+    { "project": "城脉中心", "rent": 175, "vacancy": 32.0 },
+    { "project": "京基100", "rent": 170, "vacancy": 19.5 },
+    { "project": "城建云启大厦", "rent": 130, "vacancy": 38.5 },
+    { "project": "地王大厦", "rent": 140, "vacancy": 25.0 }
+  ]
+}

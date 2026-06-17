@@ -1,0 +1,25 @@
+{
+  "description": "深圳甲级写字楼客群分析（2026年6月）",
+  "industryBreakdown": [
+    { "industry": "科技/互联网", "share": 32.5, "trend": "up", "avgArea": 2500 },
+    { "industry": "金融/保险", "share": 24.8, "trend": "stable", "avgArea": 1800 },
+    { "industry": "专业服务", "share": 14.2, "trend": "stable", "avgArea": 800 },
+    { "industry": "房地产/建筑", "share": 8.6, "trend": "down", "avgArea": 1500 },
+    { "industry": "贸易/零售", "share": 7.3, "trend": "down", "avgArea": 600 },
+    { "industry": "生物医药", "share": 5.8, "trend": "up", "avgArea": 1200 },
+    { "industry": "新能源", "share": 4.5, "trend": "up", "avgArea": 2000 },
+    { "industry": "其他", "share": 2.3, "trend": "stable", "avgArea": 500 }
+  ],
+  "areaBreakdown": [
+    { "range": "500㎡以下", "share": 28.5 },
+    { "range": "500-1000㎡", "share": 32.1 },
+    { "range": "1000-3000㎡", "share": 24.8 },
+    { "range": "3000-5000㎡", "share": 9.2 },
+    { "range": "5000㎡以上", "share": 5.4 }
+  ],
+  "trends": {
+    "techRising": "科技企业占比连续三年上升，2024年占比28.1% → 2025年30.2% → 2026年32.5%",
+    "financeStable": "金融业占比基本稳定在24-25%，券商和量化基金为扩租主力",
+    "smallUnitRising": "500㎡以下小面积需求占比从2024年的24.1%升至28.5%，灵活办公趋势明显"
+  }
+}

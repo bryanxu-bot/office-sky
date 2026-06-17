@@ -1,0 +1,65 @@
+{
+  "slug": "excellence-century",
+  "name": "卓越世纪中心",
+  "district": "福田",
+  "submarket": "福田中心区",
+  "address": "深圳市福田区金田路2030号",
+  "grade": "甲级",
+  "totalArea": "46.6万㎡",
+  "officeArea": "12.0万㎡",
+  "retailArea": "5.0万㎡",
+  "floors": 65,
+  "yearBuilt": 2010,
+  "landlord": "卓越集团",
+  "propertyManager": "卓越物业",
+  "occupancyRate": 78.0,
+  "avgRent": 160,
+  "rentRange": "120-200元/㎡·月",
+  "managementFee": 20,
+  "parkingSpaces": 1550,
+  "nearbyMetro": ["1/4号线会展中心站", "1/10号线岗厦站"],
+  "greenCert": "无",
+  "floorPlate": "1900-2200㎡",
+  "ceilingHeight": "4.1m",
+  "elevators": 22,
+  "diagnosis": {
+    "summary": "卓越世纪中心是福田CBD核心区的大型商务综合体，由4栋塔楼组成（最高65层/280米），是目前卓越集团在深圳的旗舰写字楼项目。项目占据金田路与福华三路黄金路口，距会展中心地铁站仅300米，交通和配套成熟度极高。但2010年竣工、楼龄15年，4.1m层高、无LEED认证等配置已落后于新建超甲级。20元/㎡·月的物业管理费在福田CBD同级别项目中偏低，是一个被低估的性价比选择。",
+    "strengths": [
+      { "point": "福田CBD核心区位（会展中心+岗厦双地铁），交通和配套无可挑剔" },
+      { "point": "4栋塔楼46.6万㎡超级综合体，商务生态自闭环" },
+      { "point": "20元/㎡·月物业费在福田CBD同级别中最具竞争力" },
+      { "point": "1550个停车位，车位比远超福田CBD同类项目" }
+    ],
+    "weaknesses": [
+      { "point": "2010年竣工，楼龄15年，硬件标准（4.1m层高）落后于新建超甲级" },
+      { "point": "无绿色建筑认证，ESG导向租户可能排除" },
+      { "point": "卓越物业品牌知名度不及JLL/CBRE等国际物业管理行" },
+      { "point": "空调系统为2010年配置，能效比低于冰蓄冷/VAV等新系统" }
+    ],
+    "opportunities": [
+      { "point": "福田CBD存量办公升级需求旺盛，120-160元/㎡价格带的甲级供应紧张" },
+      { "point": "福田区'金融服务'和'专业服务'双轮驱动带来稳定租户需求" },
+      { "point": "设备更新改造（空调/电梯/幕墙）可大幅提升资产价值和租户体验" },
+      { "point": "岗厦北综合交通枢纽建成后进一步提升片区通达性" }
+    ],
+    "threats": [
+      { "point": "福田CBD多个旧改项目将新增超甲级供应，局部竞争加剧" },
+      { "point": "银行/证券等金融客户对楼龄和绿色认证要求日益严格" },
+      { "point": "前海/超总等新区以政策优势争夺福田租户" }
+    ],
+    "scorecard": {
+      "location": 9.0,
+      "quality": 6.5,
+      "leasing": 7.5,
+      "investment": 6.0,
+      "outlook": 6.5
+    }
+  },
+  "peerComparison": [
+    { "project": "卓越世纪中心", "rent": 160, "vacancy": 22.0 },
+    { "project": "中民时代广场", "rent": 185, "vacancy": 28.5 },
+    { "project": "平安金融中心", "rent": 280, "vacancy": 7.3 },
+    { "project": "嘉里建设广场", "rent": 260, "vacancy": 8.5 },
+    { "project": "皇庭中心", "rent": 180, "vacancy": 18.0 }
+  ]
+}

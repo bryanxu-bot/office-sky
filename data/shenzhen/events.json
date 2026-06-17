@@ -1,0 +1,61 @@
+{
+  "description": "深圳写字楼市场重要事件",
+  "events": [
+    {
+      "date": "2026-05",
+      "title": "前海周大福总部大楼封顶",
+      "type": "new_supply",
+      "description": "新增约12万㎡甲级写字楼面积，预计2027年Q2入市",
+      "impact": "neutral"
+    },
+    {
+      "date": "2026-04",
+      "title": "黑石收购南山科技园两栋写字楼",
+      "type": "transaction",
+      "description": "交易总价约28亿元，折合单价约3.5万/㎡，较峰值折价约25%",
+      "impact": "positive"
+    },
+    {
+      "date": "2026-03",
+      "title": "腾讯扩大后海总部租赁面积",
+      "type": "leasing",
+      "description": "新增租约约3万㎡，为2026年以来最大单笔租赁交易",
+      "impact": "positive"
+    },
+    {
+      "date": "2026-01",
+      "title": "深圳甲级写字楼空置率突破25%",
+      "type": "market",
+      "description": "前海、宝安中心区供应集中，空置率分别达32.4%和28.6%，全市平均空置率创历史新高",
+      "impact": "negative"
+    },
+    {
+      "date": "2025-11",
+      "title": "万科出售深圳湾超总地块写字楼",
+      "type": "transaction",
+      "description": "以约45亿元出售深圳湾超级总部基地写字楼资产包，接盘方为国资联合体",
+      "impact": "neutral"
+    },
+    {
+      "date": "2025-09",
+      "title": "前海妈湾片区三栋写字楼集中入市",
+      "type": "new_supply",
+      "description": "合计新增供应约18万㎡，进一步推高前海空置率",
+      "impact": "negative"
+    },
+    {
+      "date": "2025-07",
+      "title": "深圳发布《商业办公物业租赁管理指引》",
+      "type": "policy",
+      "description": "规范写字楼租赁市场，鼓励业主提供灵活租赁方案，禁止恶意加价",
+      "impact": "neutral"
+    },
+    {
+      "date": "2025-05",
+      "title": "字节跳动签约入驻招商局广场",
+      "type": "leasing",
+      "description": "签约面积约2.5万㎡，为科技企业扩租的典型案例",
+      "impact": "positive"
+    }
+  ]
+}

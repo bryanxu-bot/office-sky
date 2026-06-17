@@ -1,0 +1,19 @@
+{
+  "unit": "万㎡",
+  "description": "深圳甲级写字楼存量与新增量历史数据",
+  "data": [
+    { "year": 2018, "stock": 620, "newSupply": 85 },
+    { "year": 2019, "stock": 720, "newSupply": 100 },
+    { "year": 2020, "stock": 800, "newSupply": 80 },
+    { "year": 2021, "stock": 880, "newSupply": 80 },
+    { "year": 2022, "stock": 930, "newSupply": 50 },
+    { "year": 2023, "stock": 970, "newSupply": 40 },
+    { "year": 2024, "stock": 1020, "newSupply": 50 },
+    { "year": 2025, "stock": 1060, "newSupply": 40 },
+    { "year": 2026, "stock": 1080, "newSupply": 20 }
+  ],
+  "forecast": [
+    { "year": 2027, "stock": 1120, "newSupply": 40 },
+    { "year": 2028, "stock": 1180, "newSupply": 60 }
+  ]
+}

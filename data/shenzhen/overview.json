@@ -1,0 +1,24 @@
+{
+  "city": "深圳",
+  "period": "2026年6月",
+  "headline": {
+    "totalStock": 1080,
+    "totalStockUnit": "万㎡",
+    "totalStockLabel": "甲级写字楼存量",
+    "vacancyRate": 24.8,
+    "vacancyRateUnit": "%",
+    "vacancyRateLabel": "空置率",
+    "avgRent": 178,
+    "avgRentUnit": "元/㎡/月",
+    "avgRentLabel": "平均租金",
+    "yoyRentChange": -6.2,
+    "yoyRentChangeLabel": "同比变动"
+  },
+  "submarkets": [
+    { "name": "福田中心区", "stock": 380, "vacancy": 22.5, "rent": 210 },
+    { "name": "南山后海", "stock": 260, "vacancy": 25.1, "rent": 185 },
+    { "name": "前海", "stock": 195, "vacancy": 32.4, "rent": 148 },
+    { "name": "罗湖", "stock": 145, "vacancy": 20.8, "rent": 155 },
+    { "name": "宝安中心区", "stock": 100, "vacancy": 28.6, "rent": 132 }
+  ]
+}

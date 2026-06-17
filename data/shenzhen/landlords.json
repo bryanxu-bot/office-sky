@@ -1,0 +1,18 @@
+{
+  "description": "深圳甲级写字楼主要业主方及其变化（2026年）",
+  "landlords": [
+    { "name": "华润置地", "type": "央企开发商", "stock": 150, "marketShare": 13.9, "trend": "stable", "keyProjects": ["华润大厦", "深圳湾万象城写字楼"] },
+    { "name": "平安不动产", "type": "险资背景", "stock": 120, "marketShare": 11.1, "trend": "stable", "keyProjects": ["平安金融中心", "平安国际金融中心"] },
+    { "name": "万科", "type": "混合所有制", "stock": 85, "marketShare": 7.9, "trend": "down", "keyProjects": ["万科云城", "万科时代广场"] },
+    { "name": "招商蛇口", "type": "央企开发商", "stock": 75, "marketShare": 6.9, "trend": "stable", "keyProjects": ["招商局广场", "海上世界"] },
+    { "name": "卓越集团", "type": "民营开发商", "stock": 65, "marketShare": 6.0, "trend": "down", "keyProjects": ["卓越世纪中心", "卓越前海壹号"] },
+    { "name": "凯德集团", "type": "外资基金", "stock": 45, "marketShare": 4.2, "trend": "stable", "keyProjects": ["来福士广场写字楼"] },
+    { "name": "黑石", "type": "外资基金", "stock": 35, "marketShare": 3.2, "trend": "up", "keyProjects": ["收购多个存量项目"] },
+    { "name": "其他", "type": "-", "stock": 505, "marketShare": 46.8, "trend": "-", "keyProjects": [] }
+  ],
+  "shifts": [
+    { "trend": "民营→国资", "description": "部分民营开发商因资金压力出售资产，国资背景业主占比从2023年的38%升至2026年的46%" },
+    { "trend": "外资加仓", "description": "黑石、凯德等外资持续关注深圳核心区折价资产，2025-2026年交易活跃" },
+    { "trend": "轻资产化", "description": "头部开发商从持有转向轻资产运营管理，万科、卓越近年已出售多个写字楼资产包" }
+  ]
+}
