@@ -82,7 +82,7 @@ export default function ShenzhenPage() {
         <div className="relative z-10 max-w-6xl mx-auto px-6">
           <ScrollReveal><h2 className="text-3xl font-light tracking-wider text-[#f5f5f7] mb-2">存量与新增供应</h2><p className="text-xs text-[#a1a1a6] mb-8">单位：万㎡</p></ScrollReveal>
           <div className="h-[400px]">
-            <ResponsiveContainer width="100%" height="100%">
+            <ResponsiveContainer width="100%" height="100%" minHeight={400}>
               <ComposedChart data={[...stockData.data, ...stockData.forecast.filter((f) => f.year > 2026)]} barGap={4}>
                 <CartesianGrid stroke="rgba(255,255,255,0.04)" strokeDasharray="3 3" />
                 <XAxis dataKey="year" stroke="#6e6e73" fontSize={12} tickLine={false} />
@@ -103,7 +103,7 @@ export default function ShenzhenPage() {
         <div className="relative z-10 max-w-6xl mx-auto px-6">
           <ScrollReveal><h2 className="text-3xl font-light tracking-wider text-[#f5f5f7] mb-2">租金走势</h2><p className="text-xs text-[#a1a1a6] mb-8">单位：元/㎡/月 | 2024年1月 — 2025年6月</p></ScrollReveal>
           <div className="h-[400px]">
-            <ResponsiveContainer width="100%" height="100%">
+            <ResponsiveContainer width="100%" height="100%" minHeight={400}>
               <ComposedChart data={rentData.data}>
                 <CartesianGrid stroke="rgba(255,255,255,0.04)" strokeDasharray="3 3" />
                 <XAxis dataKey="month" stroke="#6e6e73" fontSize={12} tickLine={false} tickFormatter={(v) => v.slice(2)} />
@@ -143,8 +143,8 @@ export default function ShenzhenPage() {
         <div className="relative z-10 max-w-6xl mx-auto px-6">
           <ScrollReveal><h2 className="text-3xl font-light tracking-wider text-[#f5f5f7] mb-8">客群分析</h2></ScrollReveal>
           <div className="grid grid-cols-2 gap-8">
-            <ScrollReveal delay={0.1}><div><p className="text-xs text-[#a1a1a6] mb-4">租户行业分布</p><div className="h-[350px]"><ResponsiveContainer width="100%" height="100%"><PieChart><Pie data={tenantData.industryBreakdown} dataKey="share" nameKey="industry" cx="50%" cy="50%" outerRadius={120} innerRadius={60} stroke="#f5f5f7" strokeWidth={1} animationDuration={1500}>{tenantData.industryBreakdown.map((_, i) => (<Cell key={i} fill={CHART_COLORS[i % CHART_COLORS.length]} />))}</Pie><Tooltip content={<ChartTooltip />} /><Legend wrapperStyle={{ fontSize: "11px", color: "#0f0f18" }} /></PieChart></ResponsiveContainer></div></div></ScrollReveal>
-            <ScrollReveal delay={0.2}><div><p className="text-xs text-[#a1a1a6] mb-4">租赁面积段分布</p><div className="h-[350px]"><ResponsiveContainer width="100%" height="100%"><BarChart data={tenantData.areaBreakdown} layout="vertical" margin={{ left: 60 }}><CartesianGrid stroke="rgba(255,255,255,0.04)" strokeDasharray="3 3" horizontal={false} /><XAxis type="number" stroke="#6e6e73" fontSize={12} tickLine={false} axisLine={false} tickFormatter={(v) => `${v}%`} /><YAxis dataKey="range" type="category" stroke="#6e6e73" fontSize={12} tickLine={false} axisLine={false} /><Tooltip content={<ChartTooltip />} /><Bar dataKey="share" name="占比" fill="#00f0ff" radius={[0, 2, 2, 0]} barSize={24} animationDuration={1500} /></BarChart></ResponsiveContainer></div></div></ScrollReveal>
+            <ScrollReveal delay={0.1}><div><p className="text-xs text-[#a1a1a6] mb-4">租户行业分布</p><div className="h-[350px]"><ResponsiveContainer width="100%" height="100%" minHeight={350}><PieChart><Pie data={tenantData.industryBreakdown} dataKey="share" nameKey="industry" cx="50%" cy="50%" outerRadius={120} innerRadius={60} stroke="#f5f5f7" strokeWidth={1} animationDuration={1500}>{tenantData.industryBreakdown.map((_, i) => (<Cell key={i} fill={CHART_COLORS[i % CHART_COLORS.length]} />))}</Pie><Tooltip content={<ChartTooltip />} /><Legend wrapperStyle={{ fontSize: "11px", color: "#0f0f18" }} /></PieChart></ResponsiveContainer></div></div></ScrollReveal>
+            <ScrollReveal delay={0.2}><div><p className="text-xs text-[#a1a1a6] mb-4">租赁面积段分布</p><div className="h-[350px]"><ResponsiveContainer width="100%" height="100%" minHeight={350}><BarChart data={tenantData.areaBreakdown} layout="vertical" margin={{ left: 60 }}><CartesianGrid stroke="rgba(255,255,255,0.04)" strokeDasharray="3 3" horizontal={false} /><XAxis type="number" stroke="#6e6e73" fontSize={12} tickLine={false} axisLine={false} tickFormatter={(v) => `${v}%`} /><YAxis dataKey="range" type="category" stroke="#6e6e73" fontSize={12} tickLine={false} axisLine={false} /><Tooltip content={<ChartTooltip />} /><Bar dataKey="share" name="占比" fill="#00f0ff" radius={[0, 2, 2, 0]} barSize={24} animationDuration={1500} /></BarChart></ResponsiveContainer></div></div></ScrollReveal>
           </div>
           <StaggerContainer className="grid grid-cols-3 gap-4 mt-8">
             {[{ title: "科技企业持续扩张", desc: tenantData.trends.techRising }, { title: "金融行业稳健", desc: tenantData.trends.financeStable }, { title: "小面积需求上升", desc: tenantData.trends.smallUnitRising }].map((t, i) => (

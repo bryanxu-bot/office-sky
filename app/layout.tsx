@@ -44,7 +44,9 @@ export default function RootLayout({
         <CustomCursor />
         <SmoothScroll>
           <Navbar />
-          <main className="flex-1 relative z-10">{children}</main>
+          <main className="flex-1 relative z-10">
+            {children}
+          </main>
           <Footer />
         </SmoothScroll>
       </body>
