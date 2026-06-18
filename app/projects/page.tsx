@@ -93,8 +93,8 @@ export default function ProjectsPage() {
             <h1 className="text-5xl font-light tracking-wider text-[#f5f5f7]">重点项目诊断</h1>
             <p className="mt-4 text-[#a1a1a6] text-sm">
               {mode === "database"
-                ? "搜索深圳写字楼项目，查看详细诊断分析"
-                : "输入项目名称，通过高德地图实时搜索并生成 AI 诊断"}
+                ? "浏览精选案例，查看深度诊断分析"
+                : "输入写字楼名称，实时搜索并生成 AI 诊断"}
             </p>
           </ScrollReveal>
 
@@ -109,7 +109,7 @@ export default function ProjectsPage() {
                     : "text-[#6e6e73] hover:text-[#a1a1a6]"
                 }`}
               >
-                数据库项目
+                看看案例
               </button>
               <button
                 onClick={() => setMode("amap")}
@@ -119,7 +119,7 @@ export default function ProjectsPage() {
                     : "text-[#6e6e73] hover:text-[#a1a1a6]"
                 }`}
               >
-                高德实时诊断
+                实时诊断
               </button>
             </div>
           </ScrollReveal>
